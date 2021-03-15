@@ -1,0 +1,1247 @@
+<section class="course-info" id="course-info-progress" lang="ru">
+                <h2 class="hd hd-2 progress-certificates-title">
+                    Достижения 'spawn38044@gmail.com' (spawn38044@gmail.com) на курсе
+                </h2>
+                <div class="wrapper-msg wrapper-auto-cert">
+                    <div id="errors-info" class="errors-info"></div>
+                    
+                    
+                </div>
+
+                <div class="grade-detail-graph" id="grade-detail-graph" style="padding: 0px; position: relative;"><canvas class="base" width="1840" height="400"></canvas><canvas class="overlay" width="1840" height="400" style="position: absolute; left: 0px; top: 0px;"></canvas><div class="tickLabels" style="font-size:smaller"><div class="xAxis x1Axis" style="color:#545454"><div class="tickLabel" style="position:absolute;text-align:right;left:125px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 01</span><span class="sr">Homework 1 - Модуль A1. Как мы будем учиться - 95% (19/20)<br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:152px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 02</span><span class="sr">Homework 2 - Модуль A2. IT в современном мире - 100% (73/73)<br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:179px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 03</span><span class="sr">Homework 3 - Модуль B1. Подготовка к работе - 100% (13/13)<br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:207px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 04</span><span class="sr">Homework 4 - Модуль B2. Типы данных - 100% (47/47)<br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:234px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 05</span><span class="sr">Homework 5 - Модуль B3. Циклы и условия - 100% (7/7)<br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:261px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 06</span><span class="sr">Homework 6 - Модуль B4. Функциональное программирование - 100% (3/3)<br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:288px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 07</span><span class="sr">Homework 7 - Модуль B5. Задачи по пройденным темам - 97% (36/37)<br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:315px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 08</span><span class="sr">Homework 8 - Модуль C1. Введение в ООП - 0% (0/12)<br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:342px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 09</span><span class="sr">Homework 9 - Модуль C2. Продолжение ООП - 0% (0/43)<br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:369px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 10</span><span class="sr">Homework 10 - Модуль C3. Модули и импорт. Работа с файлами и данными. - 0% (0/18)<br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:397px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 11</span><span class="sr">Homework 11 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:424px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 12</span><span class="sr">Homework 12 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:451px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 13</span><span class="sr">Homework 13 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:478px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 14</span><span class="sr">Homework 14 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:505px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 15</span><span class="sr">Homework 15 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:532px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 16</span><span class="sr">Homework 16 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:559px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 17</span><span class="sr">Homework 17 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:586px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 18</span><span class="sr">Homework 18 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:614px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 19</span><span class="sr">Homework 19 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:641px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 20</span><span class="sr">Homework 20 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:668px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 21</span><span class="sr">Homework 21 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:695px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 22</span><span class="sr">Homework 22 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:722px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 23</span><span class="sr">Homework 23 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:749px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 24</span><span class="sr">Homework 24 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:776px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 25</span><span class="sr">Homework 25 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:804px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 26</span><span class="sr">Homework 26 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:831px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 27</span><span class="sr">Homework 27 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:858px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 28</span><span class="sr">Homework 28 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:885px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 29</span><span class="sr">Homework 29 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:912px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 30</span><span class="sr">Homework 30 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:939px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 31</span><span class="sr">Homework 31 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:966px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 32</span><span class="sr">Homework 32 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:994px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 33</span><span class="sr">Homework 33 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1021px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 34</span><span class="sr">Homework 34 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1048px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 35</span><span class="sr">Homework 35 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1075px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 36</span><span class="sr">Homework 36 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1102px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 37</span><span class="sr">Homework 37 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1129px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 38</span><span class="sr">Homework 38 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1156px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 39</span><span class="sr">Homework 39 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1183px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 40</span><span class="sr">Homework 40 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1211px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 41</span><span class="sr">Homework 41 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1238px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 42</span><span class="sr">Homework 42 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1265px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 43</span><span class="sr">Homework 43 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1292px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 44</span><span class="sr">Homework 44 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1319px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 45</span><span class="sr">Homework 45 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1346px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 46</span><span class="sr">Homework 46 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1373px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 47</span><span class="sr">Homework 47 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1401px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 48</span><span class="sr">Homework 48 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1428px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 49</span><span class="sr">Homework 49 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1455px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 50</span><span class="sr">Homework 50 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1482px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 51</span><span class="sr">Homework 51 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1509px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 52</span><span class="sr">Homework 52 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1536px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 53</span><span class="sr">Homework 53 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1563px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 54</span><span class="sr">Homework 54 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1591px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 55</span><span class="sr">Homework 55 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1618px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 56</span><span class="sr">Homework 56 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1645px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 57</span><span class="sr">Homework 57 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1672px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 58</span><span class="sr">Homework 58 Нереализовано - 0% (?/?) <br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1699px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 59</span><span class="sr">Homework 59 Нереализовано - 0% (?/?) <br></span><span class="sr">Самые низкие оценки 2 Homework отбрасываются.<br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1726px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW 60</span><span class="sr">Homework 60 Нереализовано - 0% (?/?) <br></span><span class="sr">Самые низкие оценки 2 Homework отбрасываются.<br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1760px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span aria-hidden="true">HW Ср</span><span class="sr">Homework Среднее = 12%<br></span></div><div class="tickLabel" style="position:absolute;text-align:right;left:1801px;top:400px;width:42px;-webkit-transform:rotate(-90deg);-webkit-transform-origin:top left" tabindex="0"><span>Total</span><span class="sr">Homework = 11.93% из 100.00% возможных<br></span></div></div><div class="yAxis y1Axis" style="color:#545454"><div class="tickLabel" style="position:absolute;text-align:right;top:-4px;right:1740px;width:100px"><span aria-hidden="true">100%</span></div><div class="tickLabel" style="position:absolute;text-align:right;top:344px;right:1740px;width:100px"><span aria-hidden="true">0%</span></div><div class="tickLabel" style="position:absolute;text-align:right;top:100px;right:1740px;width:100px"><span aria-hidden="true">Pass 70%</span></div></div></div><div class="overallGrade" style="position:absolute;left:1796px;top:290px"><span class="sr">Итоговая оценка<br></span>12%</div></div>
+
+
+                <section class="chapters">
+                    <h2 class="sr">Подробности по каждому разделу</h2>
+                        <section aria-labelledby="chapter_0">
+                            <h3 class="hd hd-3" id="chapter_0">1. Введение</h3>
+                            <div class="sections">
+                                    <div>
+                                        
+                                        <h4 class="hd hd-4">
+                                            <a href="/courses/course-v1:SkillFactory+FPW-2.0+27AUG2020/courseware/d27ba083970241e4b9c5fcb835addce9/23266ddc35de4b8d9735599eb65848a9/">
+                                                Модуль A1. Как мы будем учиться
+                                                <span class="sr">
+                                                    19 из 20 возможных баллов
+                                                </span>
+                                            </a>
+                                            <span> (19/20) 95%</span>
+                                        </h4>
+                                        <p>
+                                                Homework
+                                        </p>
+                                        <p class="override-notice">
+                                        </p>
+                                          <dl class="scores">
+                                              <dt class="hd hd-6">Баллы за решение:</dt>
+                                                <dd>
+                                                    Open Response Assessment
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Open Response Assessment
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                     Вопросы 1-7
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Вопрос 8
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Вопрос 9
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Вопрос 10
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Вопрос 11
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Вопрос 12
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Вопрос 13
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Вопрос 14
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Вопрос 15
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Резюме
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Социальные сети
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Уровень владения английским языком
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Согласие
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    1.2.1 Ваш график обучения
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Open Response Assessment
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Open Response Assessment
+                                                    (3/3)
+                                                </dd>
+                                                <dd>
+                                                    Open Response Assessment
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    1.3.1 Инструкция по применению
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Open Response Assessment
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Open Response Assessment
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    1.3.4 Как я учусь эффективнее всего
+                                                    (3/3)
+                                                </dd>
+                                                <dd>
+                                                    1.3.5 Дополнительные материалы
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Open Response Assessment
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    1.5.1 Заполнение профилей на платформе и в Slack
+                                                    (3/4)
+                                                </dd>
+                                                <dd>
+                                                    Оцените модуль
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Комментарии
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Поделитесь вашим мнением, пожалуйста
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Время прохождения модуля
+                                                    (0/0)
+                                                </dd>
+                                          </dl>
+                                    </div>
+                                    <div>
+                                        
+                                        <h4 class="hd hd-4">
+                                            <a href="/courses/course-v1:SkillFactory+FPW-2.0+27AUG2020/courseware/d27ba083970241e4b9c5fcb835addce9/9fc304521ac845a8ab314f69eaab6905/">
+                                                Модуль A2. IT в современном мире
+                                                <span class="sr">
+                                                    73 из 73 возможных баллов
+                                                </span>
+                                            </a>
+                                            <span> (73/73) 100%</span>
+                                        </h4>
+                                        <p>
+                                                Homework
+                                                <em class="localized-datetime" data-datetime="2021-02-04T20:00:00Z" data-string="до {date}" data-timezone="Europe/Moscow" data-language="ru">до 4 февр. 2021 г. 23:00 MSK</em>
+                                        </p>
+                                        <p class="override-notice">
+                                        </p>
+                                          <dl class="scores">
+                                              <dt class="hd hd-6">Баллы за решение:</dt>
+                                                <dd>
+                                                    Вопрос 2.2.1
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Вопрос 2.2.2
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Вопрос 2.2.3
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Вопрос 2.2.4
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Вопрос 2.3.1
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.3.2
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                     Вопрос 2.3.3
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                     Задание 2.3.4
+                                                    (4/4)
+                                                </dd>
+                                                <dd>
+                                                     Задание 2.3.5 на Mind Map
+                                                    (4/4)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.4.1
+                                                    (12/12)
+                                                </dd>
+                                                <dd>
+                                                     Вопрос 2.4.2
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                     Вопрос 2.4.3
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Вопрос 2.4.4
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.4.5
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                     Задание 2.4.6 на Mind Map
+                                                    (3/3)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.5.1
+                                                    (3/3)
+                                                </dd>
+                                                <dd>
+                                                    Вопрос 2.5.2
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Вопрос 2.5.3
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                     Вопрос 2.6.1
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                     Вопрос 2.6.2
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Вопрос 2.6.3
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.6.4
+                                                    (5/5)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.6.5 
+                                                    (4/4)
+                                                </dd>
+                                                <dd>
+                                                    Вопрос 2.7.1
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Вопрос 2.7.2
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Вопрос 2.7.3
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Вопрос 2.7.4
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Вопрос 2.7.5
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.8.1
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Вопрос 2.8.2
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Вопрос 2.8.3
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.8.4
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.8.5
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.8.6
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Итоговое задание 2.8.7 на Mind Map
+                                                    (11/11)
+                                                </dd>
+                                                <dd>
+                                                    Оцените модуль
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Комментарии
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Поделитесь вашим мнением, пожалуйста
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Время прохождения модуля
+                                                    (0/0)
+                                                </dd>
+                                          </dl>
+                                    </div>
+                            </div>
+                        </section>
+                        <section aria-labelledby="chapter_1">
+                            <h3 class="hd hd-3" id="chapter_1">2. Введение в Python</h3>
+                            <div class="sections">
+                                    <div>
+                                        
+                                        <h4 class="hd hd-4">
+                                            <a href="/courses/course-v1:SkillFactory+FPW-2.0+27AUG2020/courseware/5474bc39c2294893840f3e89e37d31db/0ef5062dc644439d96d37fea1ebb3017/">
+                                                Модуль B1. Подготовка к работе
+                                                <span class="sr">
+                                                    13 из 13 возможных баллов
+                                                </span>
+                                            </a>
+                                            <span> (13/13) 100%</span>
+                                        </h4>
+                                        <p>
+                                                Homework
+                                                <em class="localized-datetime" data-datetime="2021-02-11T20:00:00Z" data-string="до {date}" data-timezone="Europe/Moscow" data-language="ru">до 11 февр. 2021 г. 23:00 MSK</em>
+                                        </p>
+                                        <p class="override-notice">
+                                        </p>
+                                          <dl class="scores">
+                                              <dt class="hd hd-6">Баллы за решение:</dt>
+                                                <dd>
+                                                    Задание 1.2.1
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 1.2.2
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    &nbsp;Задание 1.2.3
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 1.2.4
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 1.2.5
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 1.2.6
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 1.2.7
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 1.3.1
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 1.3.2
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 1.4.1
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 1.4.2
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    &nbsp;Задание 1.5.1
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 1.7.1
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Оцените модуль
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Комментарии
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Поделитесь вашим мнением, пожалуйста
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Время прохождения модуля
+                                                    (0/0)
+                                                </dd>
+                                          </dl>
+                                    </div>
+                                    <div>
+                                        
+                                        <h4 class="hd hd-4">
+                                            <a href="/courses/course-v1:SkillFactory+FPW-2.0+27AUG2020/courseware/5474bc39c2294893840f3e89e37d31db/215b243511a2439a993a4b51ad4ae2e4/">
+                                                Модуль B2. Типы данных
+                                                <span class="sr">
+                                                    47 из 47 возможных баллов
+                                                </span>
+                                            </a>
+                                            <span> (47/47) 100%</span>
+                                        </h4>
+                                        <p>
+                                                Homework
+                                                <em class="localized-datetime" data-datetime="2021-02-18T20:00:00Z" data-string="до {date}" data-timezone="Europe/Moscow" data-language="ru">до 18 февр. 2021 г. 23:00 MSK</em>
+                                        </p>
+                                        <p class="override-notice">
+                                        </p>
+                                          <dl class="scores">
+                                              <dt class="hd hd-6">Баллы за решение:</dt>
+                                                <dd>
+                                                    Задание 2.1.1
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.1.2
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.1.3
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.1.4
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.1.5
+                                                    (10/10)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.1.6
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.1.7
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.1.8
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.1.9
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.2.1
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.2.2
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.2.3
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.2.4
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.2.5
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.2.7
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.2.8
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.2.8
+                                                    (2/2)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.2.9
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.3.1
+                                                    (2/2)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.3.2
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.3.3
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.3.4
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.4.2
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.4.3
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.5.1
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.5.2
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.5.3
+                                                    (4/4)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.5.4
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.5.5
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.5.7
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.5.8
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.5.9
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.5.10
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Оцените модуль
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Комментарии
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Поделитесь вашим мнением, пожалуйста
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Время прохождения модуля
+                                                    (0/0)
+                                                </dd>
+                                          </dl>
+                                    </div>
+                                    <div>
+                                        
+                                        <h4 class="hd hd-4">
+                                            <a href="/courses/course-v1:SkillFactory+FPW-2.0+27AUG2020/courseware/5474bc39c2294893840f3e89e37d31db/68cc6ef067424347a2ca7b2a01b7e118/">
+                                                Модуль B3. Циклы и условия
+                                                <span class="sr">
+                                                    7 из 7 возможных баллов
+                                                </span>
+                                            </a>
+                                            <span> (7/7) 100%</span>
+                                        </h4>
+                                        <p>
+                                                Homework
+                                                <em class="localized-datetime" data-datetime="2021-02-25T20:00:00Z" data-string="до {date}" data-timezone="Europe/Moscow" data-language="ru">до 25 февр. 2021 г. 23:00 MSK</em>
+                                        </p>
+                                        <p class="override-notice">
+                                        </p>
+                                          <dl class="scores">
+                                              <dt class="hd hd-6">Баллы за решение:</dt>
+                                                <dd>
+                                                    Задание 3.1.1
+                                                    (2/2)
+                                                </dd>
+                                                <dd>
+                                                    Задание 3.1.2
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 3.1.3
+                                                    (2/2)
+                                                </dd>
+                                                <dd>
+                                                    Задание 3.3.2
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 3.3.3
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Оцените модуль
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Комментарии
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Поделитесь вашим мнением, пожалуйста
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Время прохождения модуля
+                                                    (0/0)
+                                                </dd>
+                                          </dl>
+                                    </div>
+                                    <div>
+                                        
+                                        <h4 class="hd hd-4">
+                                            <a href="/courses/course-v1:SkillFactory+FPW-2.0+27AUG2020/courseware/5474bc39c2294893840f3e89e37d31db/7d8586c2a4c74ecab59beaca99b31548/">
+                                                Модуль B4. Функциональное программирование
+                                                <span class="sr">
+                                                    3 из 3 возможных баллов
+                                                </span>
+                                            </a>
+                                            <span> (3/3) 100%</span>
+                                        </h4>
+                                        <p>
+                                                Homework
+                                                <em class="localized-datetime" data-datetime="2021-03-04T20:00:00Z" data-string="до {date}" data-timezone="Europe/Moscow" data-language="ru">до 4 мар. 2021 г. 23:00 MSK</em>
+                                        </p>
+                                        <p class="override-notice">
+                                        </p>
+                                          <dl class="scores">
+                                              <dt class="hd hd-6">Баллы за решение:</dt>
+                                                <dd>
+                                                    Задание 4.4.3
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 4.4.4
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 4.4.5
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Оцените модуль
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Комментарии
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Поделитесь вашим мнением, пожалуйста
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Время прохождения модуля
+                                                    (0/0)
+                                                </dd>
+                                          </dl>
+                                    </div>
+                                    <div>
+                                        
+                                        <h4 class="hd hd-4">
+                                            <a href="/courses/course-v1:SkillFactory+FPW-2.0+27AUG2020/courseware/5474bc39c2294893840f3e89e37d31db/c9591776961d497bbeb9bad8c5e41685/">
+                                                Модуль B5. Задачи по пройденным темам
+                                                <span class="sr">
+                                                    36 из 37 возможных баллов
+                                                </span>
+                                            </a>
+                                            <span> (36/37) 97%</span>
+                                        </h4>
+                                        <p>
+                                                Homework
+                                                <em class="localized-datetime" data-datetime="2021-04-29T20:00:00Z" data-string="до {date}" data-timezone="Europe/Moscow" data-language="ru">до 29 апр. 2021 г. 23:00 MSK</em>
+                                        </p>
+                                        <p class="override-notice">
+                                        </p>
+                                          <dl class="scores">
+                                              <dt class="hd hd-6">Баллы за решение:</dt>
+                                                <dd>
+                                                    Задание 5.2.1
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.2.2
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.2.3
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.2.4
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.2.6
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.2.7
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.2.8
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.2.10
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.2.11
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.2.12
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.3.1
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.3.3
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.3.4
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.3.5
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.3.6
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.3.7
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.3.15
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.4.1
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.4.2
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.4.6
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.4.7
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.4.8
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.4.12
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.4.14
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.5.5
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.5.6
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    5.6.1 Итоговое практическое задание
+                                                    (10/11)
+                                                </dd>
+                                                <dd>
+                                                    Оцените модуль
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Комментарии
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Поделитесь вашим мнением, пожалуйста
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Время прохождения модуля
+                                                    (0/0)
+                                                </dd>
+                                          </dl>
+                                    </div>
+                                    <div>
+                                        
+                                        <h4 class="hd hd-4">
+                                            <a href="/courses/course-v1:SkillFactory+FPW-2.0+27AUG2020/courseware/5474bc39c2294893840f3e89e37d31db/8da98abf7bcf4098b7b029de905e2531/">
+                                                Git.Github
+                                                <span class="sr">
+                                                    7 из 13 возможных баллов
+                                                </span>
+                                            </a>
+                                            <span> (7/13) 54%</span>
+                                        </h4>
+                                        <p>
+                                        </p>
+                                        <p class="override-notice">
+                                        </p>
+                                          <dl class="scores">
+                                              <dt class="hd hd-6">Баллы за практику:</dt>
+                                                <dd>
+                                                    Задание 1.1
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 3.1.
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 4.1.
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 4.2
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 4.3
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 4.4
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 4.5
+                                                    (1/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.1
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.2
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.4
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.5
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 5.6
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 9.7.1.
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Оцените модуль
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Комментарии
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Поделитесь вашим мнением, пожалуйста
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Время прохождения модуля
+                                                    (0/0)
+                                                </dd>
+                                          </dl>
+                                    </div>
+                            </div>
+                        </section>
+                        <section aria-labelledby="chapter_2">
+                            <h3 class="hd hd-3" id="chapter_2">3. Объектно-ориентированное программирование</h3>
+                            <div class="sections">
+                                    <div>
+                                        
+                                        <h4 class="hd hd-4">
+                                            <a href="/courses/course-v1:SkillFactory+FPW-2.0+27AUG2020/courseware/6877972a3b5d4dddacdf910f276436d8/8274bfc6120d4f078db4414f4f7fb6ea/">
+                                                Модуль C1. Введение в ООП
+                                                <span class="sr">
+                                                    0 из 12 возможных баллов
+                                                </span>
+                                            </a>
+                                            <span> (0/12) </span>
+                                        </h4>
+                                        <p>
+                                                Homework
+                                                <em class="localized-datetime" data-datetime="2021-03-18T20:00:00Z" data-string="до {date}" data-timezone="Europe/Moscow" data-language="ru">до 18 мар. 2021 г. 23:00 MSK</em>
+                                        </p>
+                                        <p class="override-notice">
+                                        </p>
+                                          <dl class="scores">
+                                              <dt class="hd hd-6">Баллы за решение:</dt>
+                                                <dd>
+                                                    Задание 1.2.1
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 1.3.1
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 1.3.2
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 1.3.3
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 1.3.4
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 1.4.1
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 1.4.2
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 1.4.3
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 1.5.1
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 1.5.2
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 1.6.1
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 1.6.2
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Оцените модуль
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Комментарии
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Поделитесь вашим мнением, пожалуйста
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Время прохождения модуля
+                                                    (0/0)
+                                                </dd>
+                                          </dl>
+                                    </div>
+                                    <div>
+                                        
+                                        <h4 class="hd hd-4">
+                                            <a href="/courses/course-v1:SkillFactory+FPW-2.0+27AUG2020/courseware/6877972a3b5d4dddacdf910f276436d8/9a17ac5b209a44bb96a7e75eb76a5644/">
+                                                Модуль C2. Продолжение ООП
+                                                <span class="sr">
+                                                    0 из 43 возможных баллов
+                                                </span>
+                                            </a>
+                                            <span> (0/43) </span>
+                                        </h4>
+                                        <p>
+                                                Homework
+                                                <em class="localized-datetime" data-datetime="2021-03-25T20:00:00Z" data-string="до {date}" data-timezone="Europe/Moscow" data-language="ru">до 25 мар. 2021 г. 23:00 MSK</em>
+                                        </p>
+                                        <p class="override-notice">
+                                        </p>
+                                          <dl class="scores">
+                                              <dt class="hd hd-6">Баллы за решение:</dt>
+                                                <dd>
+                                                    Задание 2.2.2
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.2.3
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.3.1
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.3.2
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.3.3
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.4.1
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.4.2
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.4.3
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.4.4
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.4.5
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.4.6
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 2.4.7
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Итоговое практическое задание
+                                                    (0/31)
+                                                </dd>
+                                                <dd>
+                                                    Оцените модуль
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Комментарии
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Поделитесь вашим мнением, пожалуйста
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Время прохождения модуля
+                                                    (0/0)
+                                                </dd>
+                                          </dl>
+                                    </div>
+                                    <div>
+                                        
+                                        <h4 class="hd hd-4">
+                                            <a href="/courses/course-v1:SkillFactory+FPW-2.0+27AUG2020/courseware/6877972a3b5d4dddacdf910f276436d8/a23a135488e74bbc890d555ca1e69a8e/">
+                                                Модуль C3. Модули и импорт. Работа с файлами и данными.
+                                                <span class="sr">
+                                                    0 из 18 возможных баллов
+                                                </span>
+                                            </a>
+                                            <span> (0/18) </span>
+                                        </h4>
+                                        <p>
+                                                Homework
+                                                <em class="localized-datetime" data-datetime="2021-04-01T20:00:00Z" data-string="до {date}" data-timezone="Europe/Moscow" data-language="ru">до 1 апр. 2021 г. 23:00 MSK</em>
+                                        </p>
+                                        <p class="override-notice">
+                                        </p>
+                                          <dl class="scores">
+                                              <dt class="hd hd-6">Баллы за решение:</dt>
+                                                <dd>
+                                                    Задание 3.2.2
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 3.2.3
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 3.2.4
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 3.3.1
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 3.3.2
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 3.3.3
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 3.3.4
+                                                    (0/3)
+                                                </dd>
+                                                <dd>
+                                                    Задание 3.3.6
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 3.4.1
+                                                    (0/2)
+                                                </dd>
+                                                <dd>
+                                                    Задание 3.4.2
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 3.5.1
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 3.5.2
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 3.5.3
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 3.5.4
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Задание 3.5.5
+                                                    (0/1)
+                                                </dd>
+                                                <dd>
+                                                    Оцените модуль
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Комментарии
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Поделитесь вашим мнением, пожалуйста
+                                                    (0/0)
+                                                </dd>
+                                                <dd>
+                                                    Время прохождения модуля
+                                                    (0/0)
+                                                </dd>
+                                          </dl>
+                                    </div>
+                            </div>
+                        </section>
+                        <section aria-labelledby="chapter_3">
+                            <h3 class="hd hd-3" id="chapter_3">Вебинары и созвоны</h3>
+                            <div class="sections">
+                                    <div>
+                                        
+                                        <h4 class="hd hd-4">
+                                            <a href="/courses/course-v1:SkillFactory+FPW-2.0+27AUG2020/courseware/cabad2756b2a4c43b3bcd9884ac945c1/1f8664c5da0e445e8dd6e3da563f2b5d/">
+                                                Вводный вебинар
+                                            </a>
+                                        </h4>
+                                        <p>
+                                        </p>
+                                        <p class="override-notice">
+                                        </p>
+                                        <p class="no-scores">Нет баллов за выполненные в этом разделе задания</p>
+                                    </div>
+                                    <div>
+                                        
+                                        <h4 class="hd hd-4">
+                                            <a href="/courses/course-v1:SkillFactory+FPW-2.0+27AUG2020/courseware/cabad2756b2a4c43b3bcd9884ac945c1/b51d6bba025e49308de2e16bc6f53402/">
+                                                Вебинары
+                                            </a>
+                                        </h4>
+                                        <p>
+                                        </p>
+                                        <p class="override-notice">
+                                        </p>
+                                        <p class="no-scores">Нет баллов за выполненные в этом разделе задания</p>
+                                    </div>
+                            </div>
+                        </section>
+                </section>
+            </section>
