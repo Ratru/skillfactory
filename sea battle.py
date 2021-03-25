@@ -133,7 +133,7 @@ class Board:
                     print("Корабль ранен!")
                     return True
 
-        self.field[d.x][d.y] = "."
+        self.field[d.x][d.y] = "T"
         print("Мимо!")
         return False
 
@@ -226,13 +226,17 @@ class Game:
         return board
 
     def greet(self):
-        print("-------------------")
-        print("        Игра       ")
-        print("    морской бой    ")
-        print("-------------------")
-        print(" формат ввода: x y ")
-        print(" x - номер строки  ")
-        print(" y - номер столбца ")
+        print("-------------------------------------")
+        print("              Игра                   ")
+        print("           морской бой               ")
+        print("-------------------------------------")
+        print("        формат ввода: x y            ")
+        print("       x - номер строки              ")
+        print("       y - номер столбца             ")
+        print("            T-промах                 ")
+        print("   . -область где нет кораблей       ")
+        print("(появляется после затопления коробля)")
+        print("           Х-попадание               ")
 
     def loop(self):
         num = 0
